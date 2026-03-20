@@ -2,7 +2,6 @@
 
 ### C# / .NET Developer
 
----
 
 ## Skills
 
@@ -15,7 +14,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
----
 
 ## About Me
 
